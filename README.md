@@ -9,6 +9,7 @@
 - [변수](https://github.com/RyuJungSik/JS-Study/blob/main/(04)%EB%B3%80%EC%88%98.md)
 - [표현식과 문](https://github.com/RyuJungSik/JS-Study/blob/main/(05)%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8.md)
 - [데이터 타입](https://github.com/RyuJungSik/JS-Study/blob/main/(06)%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
+- [연산자](https://github.com/RyuJungSik/JS-Study/blob/main/(07)%EC%97%B0%EC%82%B0%EC%9E%90.md)
 - [제어문](https://github.com/RyuJungSik/JS-Study/blob/main/(08)%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
 - [타입 변환과 단축 평가](https://github.com/RyuJungSik/JS-Study/blob/main/(09)%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80.md)
 - [객체 리터럴](https://github.com/RyuJungSik/JS-Study/blob/main/(10)%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
