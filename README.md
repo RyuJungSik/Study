@@ -23,6 +23,7 @@
 - [함수와 일급 객체](https://github.com/RyuJungSik/JS-Study/blob/main/(18)%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
 - [프로토타입-1](https://github.com/RyuJungSik/JS-Study/blob/main/(19-1)%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - [프로토타입-2](https://github.com/RyuJungSik/JS-Study/blob/main/(19-2)%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+- [strict mode](https://github.com/RyuJungSik/JS-Study/blob/main/(20)strict%20mode.md)
 
 
 ## Reference
