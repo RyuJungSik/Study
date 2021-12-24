@@ -26,6 +26,7 @@
 - [strict mode](https://github.com/RyuJungSik/JS-Study/blob/main/(20)strict%20mode.md)
 - [빌트인 객체](https://github.com/RyuJungSik/JS-Study/blob/main/(21)%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
 - [this](https://github.com/RyuJungSik/JS-Study/blob/main/(22)%20this.md)
+- [실행 컨텍스트](https://github.com/RyuJungSik/JS-Study/blob/main/(23)%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 
 ## Reference
