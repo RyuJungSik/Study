@@ -30,6 +30,7 @@
 - [클로저](https://github.com/RyuJungSik/JS-Study/blob/main/(24)%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - [클래스](https://github.com/RyuJungSik/JS-Study/blob/main/(25)%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - [ES6 함수의 추가 기능](https://github.com/RyuJungSik/JS-Study/blob/main/(26)ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5.md)
+- [배열](https://github.com/RyuJungSik/JS-Study/blob/main/(27)%EB%B0%B0%EC%97%B4.md)
 
 
 ## Reference
