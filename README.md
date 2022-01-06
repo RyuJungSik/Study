@@ -42,6 +42,7 @@
 - [타이머](https://github.com/RyuJungSik/JS-Study/blob/main/(41)%ED%83%80%EC%9D%B4%EB%A8%B8.md)
 - [비동기 프로그래밍](https://github.com/RyuJungSik/JS-Study/blob/main/(42)%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A7%A4%EB%A7%81.md)
 - [REST API](https://github.com/RyuJungSik/JS-Study/blob/main/(44)REST%20API.md)
+- [프로미스](https://github.com/RyuJungSik/JS-Study/blob/main/(45)%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
 
 
 ## Reference
