@@ -46,6 +46,7 @@
 - [제너레이터와 async/await](https://github.com/RyuJungSik/JS-Study/blob/main/(46)%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20async%2Cawait.md)
 - [에러 처리](https://github.com/RyuJungSik/JS-Study/blob/main/(47)%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
 - [모듈](https://github.com/RyuJungSik/JS-Study/blob/main/(48)%EB%AA%A8%EB%93%88.md)
+- [Babel과 Webpack을 이용한 ES6+/ESNext 개발환경 구축](https://github.com/RyuJungSik/JS-Study/blob/main/(49)Babel%EA%B3%BC%20Webpack%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20ES6+ESNext%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95.md)
 
 
 ## Reference
