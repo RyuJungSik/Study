@@ -44,6 +44,8 @@
 - [REST API](https://github.com/RyuJungSik/JS-Study/blob/main/(44)REST%20API.md)
 - [프로미스](https://github.com/RyuJungSik/JS-Study/blob/main/(45)%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
 - [제너레이터와 async/await](https://github.com/RyuJungSik/JS-Study/blob/main/(46)%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20async%2Cawait.md)
+- [에러 처리](https://github.com/RyuJungSik/JS-Study/blob/main/(47)%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
+- [모듈](https://github.com/RyuJungSik/JS-Study/blob/main/(48)%EB%AA%A8%EB%93%88.md)
 
 
 ## Reference
