@@ -12,18 +12,62 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="">:cat:자바스크립트</a></td>
+      <td><a href="https://github.com/RyuJungSik/Study/blob/main/JavaScript%20%EA%B3%B5%EB%B6%80/readme.md">:cat:자바스크립트</a></td>
       <td>
-        <p>        <a href="https://github.com/RyuJungSik/JS-Study/blob/main/(00)%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC%20%EC%9D%B4%ED%95%B4%EC%9D%98%20%EC%A4%91%EC%9A%94%EC%84%B1.md">기본 개념과 동작 원리 이해의 중요성.</a></p>
-
+        <p>기본 개념과 동작 원리 이해의 중요성</p>
+        <p>프로그래밍</p>
+        <p>자바스크립트란?</p>
+        <p>자바스크립트 개발 환경과 실행 방법</p>
+        <p>변수</p>
+        <p>표현식과 문</p>
+        <p>데이터 타입</p>
+        <p>연산자</p>
+        <p>제어문</p>
+        <p>타입 변환과 단축 평가</p>
+        <p>객체 리터럴</p>
+        <p>원시값과 객체의 비교</p>
+        <p>함수</p>
+        <p>스코프</p>
+        <p>전역 변수의 문제점</p>
+        <p>let,const와 블록레벨 스코프</p>
+        <p>프로퍼티 어트리뷰트</p>
+        <p>생성자 함수에 의한 객체 생성</p>
+        <p>함수와 일급 객체</p>
+        <p>프로토타입-1</p>
+        <p>프로토타입-2</p>
+        <p>strict mode</p>
+        <p>빌트인 객체</p>
+        <p>this</p>
+        <p>실행 컨텍스트</p>
+        <p>클로저</p>
+        <p>클래스</p>
+        <p>ES6 함수의 추가 기능</p>
+        <p>배열</p>
+        <p>7번째 데이터 타입 Symbol</p>
+        <p>이터러블</p>
+        <p>스프레드 문법</p>
+        <p>디스트럭처링 할당</p>
+        <p>Set과 Map</p>
+        <p>브라우저의 렌더링 과정</p>
+        <p>DOM</p>
+        <p>이벤트</p>
+        <p>타이머</p>
+        <p>비동기 프로그래밍</p>
+        <p>REST API</p>
+        <p>프로미스</p>
+        <p>제너레이터와 async/await</p>
+        <p>에러 처리</p>
+        <p>모듈</p>
+        <p>Babel과 Webpack을 이용한 ES6+/ESNext 개발환경 구축</p>
+      </td>
+    </tr>
+     <tr>
+      <td><a href="">🎈자바</a></td>
+      <td>
+        <p>TEST</p>
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 </details>
-
-
-
-## Reference
-- poiemaweb.com - 해당 자료를 통해 재가공 했습니다.
