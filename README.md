@@ -62,7 +62,7 @@
       </td>
     </tr>
      <tr>
-      <td><a href="">🎈자바</a></td>
+      <td><a href="https://github.com/RyuJungSik/Study/tree/main/Java">🎈자바</a></td>
       <td>
         <p>TEST</p>
       </td>
