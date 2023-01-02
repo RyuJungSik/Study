@@ -1,73 +1,28 @@
 # 공부한 것을 기록하는 레포입니다.
 
-### :point_down: 챕터 바로가기 :point_down:
-<details><summary>:persevere:너무 길어요:sob: <strong>자세히보기!</strong></summary>
+# [Java](https://github.com/RyuJungSik/Study/blob/main/Java)
+- [총정리](https://github.com/RyuJungSik/Study/blob/main/Java/(00)Summary.md)
+- [프로그래밍이란 무엇인가?](https://github.com/RyuJungSik/Study/blob/main/Java/(01)%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [Hello자바](https://github.com/RyuJungSik/Study/blob/main/Java/(02)Hello%EC%9E%90%EB%B0%94.md)
+- [객체란 무엇인가?](https://github.com/RyuJungSik/Study/blob/main/Java/(03)%EA%B0%9D%EC%B2%B4%EB%9E%80%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- [변수와 기본 자료형](https://github.com/RyuJungSik/Study/blob/main/Java/(04)%EB%B3%80%EC%88%98%EC%99%80%EA%B8%B0%EB%B3%B8%EC%9E%90%EB%A3%8C%ED%98%95.md)
+- [연산자, 조건문, 배열](https://github.com/RyuJungSik/Study/blob/main/Java/(05)%EC%97%B0%EC%82%B0%EC%9E%90%2C%EC%A1%B0%EA%B1%B4%EB%AC%B8%2C%EB%B0%B0%EC%97%B4.md)
+- [참조 자료형](https://github.com/RyuJungSik/Study/blob/main/Java/(06)%EC%B0%B8%EC%A1%B0%EC%9E%90%EB%A3%8C%ED%98%95.md)
+- [패키지와 접근 제어자](https://github.com/RyuJungSik/Study/blob/main/Java/(07)%ED%8C%A8%ED%82%A4%EC%A7%80%EC%99%80%20%EC%A0%91%EA%B7%BC%20%EC%A0%9C%EC%96%B4%EC%9E%90.md)
+- [상속](https://github.com/RyuJungSik/Study/blob/main/Java/(08)%EC%83%81%EC%86%8D.md)
+-[인터페이스, 추상화, Enum](https://github.com/RyuJungSik/Study/blob/main/Java/(10)%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%2C%20%EC%B6%94%EC%83%81%ED%99%94%2C%20Enum.md)
+- [String](https://github.com/RyuJungSik/Study/blob/main/Java/(11)String.md)
+- [예외처리](https://github.com/RyuJungSik/Study/blob/main/Java/(12)%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+- [Nestedclass 중첩클래스](https://github.com/RyuJungSik/Study/blob/main/Java/(13)Nestedclass%20%EC%A4%91%EC%B2%A9%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [어노테이션](https://github.com/RyuJungSik/Study/blob/main/Java/(14)%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98.md)
+- [자바 특징,JVM,GC](https://github.com/RyuJungSik/Study/blob/main/Java/(15)%20%EC%9E%90%EB%B0%94%20%ED%8A%B9%EC%A7%95%2CJVM%2CGC.md)
+- [java.lang 패키지](https://github.com/RyuJungSik/Study/blob/main/Java/(16)%EC%9E%90%EB%B0%94%EB%9E%AD%20%ED%8C%A8%ED%82%A4%EC%A7%80.md)
+- [제네릭](https://github.com/RyuJungSik/Study/blob/main/Java/(17)%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
+- [Collection](https://github.com/RyuJungSik/Study/blob/main/Java/(18)Collection.md)
+- [Thread](https://github.com/RyuJungSik/Study/blob/main/Java/(19)Thread.md)
+- [Socket](https://github.com/RyuJungSik/Study/blob/main/Java/(20)Socket.md)
+- [Java7](https://github.com/RyuJungSik/Study/blob/main/Java/(21)Java7.md)
+- [Java8](https://github.com/RyuJungSik/Study/blob/main/Java/(22)Java8.md)
 
-<br>
 
-<table align="center">
-  <thead>
-    <th>구분</th>
-    <th>항목</th>  
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/RyuJungSik/Study/blob/main/JavaScript%20%EA%B3%B5%EB%B6%80/readme.md">:cat:자바스크립트</a></td>
-      <td>
-        <p>기본 개념과 동작 원리 이해의 중요성</p>
-        <p>프로그래밍</p>
-        <p>자바스크립트란?</p>
-        <p>자바스크립트 개발 환경과 실행 방법</p>
-        <p>변수</p>
-        <p>표현식과 문</p>
-        <p>데이터 타입</p>
-        <p>연산자</p>
-        <p>제어문</p>
-        <p>타입 변환과 단축 평가</p>
-        <p>객체 리터럴</p>
-        <p>원시값과 객체의 비교</p>
-        <p>함수</p>
-        <p>스코프</p>
-        <p>전역 변수의 문제점</p>
-        <p>let,const와 블록레벨 스코프</p>
-        <p>프로퍼티 어트리뷰트</p>
-        <p>생성자 함수에 의한 객체 생성</p>
-        <p>함수와 일급 객체</p>
-        <p>프로토타입-1</p>
-        <p>프로토타입-2</p>
-        <p>strict mode</p>
-        <p>빌트인 객체</p>
-        <p>this</p>
-        <p>실행 컨텍스트</p>
-        <p>클로저</p>
-        <p>클래스</p>
-        <p>ES6 함수의 추가 기능</p>
-        <p>배열</p>
-        <p>7번째 데이터 타입 Symbol</p>
-        <p>이터러블</p>
-        <p>스프레드 문법</p>
-        <p>디스트럭처링 할당</p>
-        <p>Set과 Map</p>
-        <p>브라우저의 렌더링 과정</p>
-        <p>DOM</p>
-        <p>이벤트</p>
-        <p>타이머</p>
-        <p>비동기 프로그래밍</p>
-        <p>REST API</p>
-        <p>프로미스</p>
-        <p>제너레이터와 async/await</p>
-        <p>에러 처리</p>
-        <p>모듈</p>
-        <p>Babel과 Webpack을 이용한 ES6+/ESNext 개발환경 구축</p>
-      </td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/RyuJungSik/Study/tree/main/Java">🎈자바</a></td>
-      <td>
-        <p>TEST</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br>
-</details>
+
