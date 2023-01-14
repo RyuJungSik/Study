@@ -11,7 +11,7 @@
 ### 스프링 입문을 위한 자바 객체지향의 원리와 이해
 - [자바의 절차적 프로그래밍과 메모리](https://github.com/RyuJungSik/Study/blob/main/OOP/(07)%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%88%EC%B0%A8%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 - [자바와 객체 지향](https://github.com/RyuJungSik/Study/blob/main/OOP/(08)%EC%9E%90%EB%B0%94%EC%99%80%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5.md)
--[자바가 확장한 객체 지향](https://github.com/RyuJungSik/Study/blob/main/OOP/(09)%EC%9E%90%EB%B0%94%EA%B0%80%20%ED%99%95%EC%9E%A5%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5.md)
+- [자바가 확장한 객체 지향](https://github.com/RyuJungSik/Study/blob/main/OOP/(09)%EC%9E%90%EB%B0%94%EA%B0%80%20%ED%99%95%EC%9E%A5%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5.md)
 
 
 
