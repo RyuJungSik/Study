@@ -10,6 +10,8 @@
 - [정적 타입시스템의 필요성](https://github.com/RyuJungSik/Study/blob/main/CS/(06)%EC%A0%95%EC%A0%81%20%ED%83%80%EC%9E%85%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md)
 
 ### 디자인 패턴
+- [디자인패턴 소개와 라이브러리, 프레임워크 차이](https://github.com/RyuJungSik/Study/blob/main/CS/(07)%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%20%EC%86%8C%EA%B0%9C%EC%99%80%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%2C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%B0%A8%EC%9D%B4.md)
+- [싱글톤 패턴](https://github.com/RyuJungSik/Study/blob/main/CS/(08)%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
 
 
 
