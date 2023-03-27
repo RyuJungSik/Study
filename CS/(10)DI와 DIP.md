@@ -1,8 +1,7 @@
 # DI와 DIP
 
 ### DI란?
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56c57c57-5ede-4bd4-a9a7-2ad3896f25dc/Untitled.png)
+![image](https://user-images.githubusercontent.com/76714485/227937978-735fc583-5e67-4938-b02a-a789329059dd.png)
 
 - DI란 의존성 주입으로 메인모듈이 직접 다른 하위 모듈에 대한 의존성을 주기보다는
 - 중간에 의존성 주입자가 이부분을 가로채 메인 모듈이 간접적으로 의존성을 주입하는 방식이다.
