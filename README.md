@@ -41,13 +41,13 @@
 - [객체지향 설계 5원칙](https://github.com/RyuJungSik/Study/blob/main/OOP/(10)%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%84%A4%EA%B3%84%205%EC%9B%90%EC%B9%99.md)
 - [스프링의 다양한 디자인패턴](https://github.com/RyuJungSik/Study/blob/main/OOP/(11)%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 
-# [Spring](https://github.com/RyuJungSik/Study/blob/main/Spring/readme.md)
+# [Spring](https://github.com/RyuJungSik/Study/blob/main/Spring)
 - [오브젝트와 의존관계](https://github.com/RyuJungSik/Study/blob/main/Spring/(01)%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%EC%99%80%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md)
 - [테스트](https://github.com/RyuJungSik/Study/blob/main/Spring/(02)%ED%85%8C%EC%8A%A4%ED%8A%B8.md
 )
 - [템플릿](https://github.com/RyuJungSik/Study/blob/main/Spring/(03)%ED%85%9C%ED%94%8C%EB%A6%BF.md)
 
-# [CS](https://github.com/RyuJungSik/Study/tree/main/CS/readme.md)
+# [CS](https://github.com/RyuJungSik/Study/tree/main/CS)
 ### 개발자 필수지식
 - [데이터포맷 JSON](https://github.com/RyuJungSik/Study/blob/main/CS/(01)%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%EB%A7%B7%20JSON.md)
 - [데이터포맷 XML](https://github.com/RyuJungSik/Study/blob/main/CS/(02)%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%EB%A7%B7%20XML.md)
@@ -62,3 +62,5 @@
 - [팩토리 패턴과 이터레이션 패턴](https://github.com/RyuJungSik/Study/blob/main/CS/(09)%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98%20%ED%8C%A8%ED%84%B4.md)
 - [DI와 DIP](https://github.com/RyuJungSik/Study/blob/main/CS/(10)DI%EC%99%80%20DIP.md)
 - [전략 패턴, 옵저버 패턴, 프록시 패턴](https://github.com/RyuJungSik/Study/blob/main/CS/(11)%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4%2C%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4%2C%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4.md)
+- [MVC 패턴](https://github.com/RyuJungSik/Study/blob/main/CS/(12)MVC%20%ED%8C%A8%ED%84%B4.md)
+- [flux 패턴](https://github.com/RyuJungSik/Study/blob/main/CS/(13)flux%ED%8C%A8%ED%84%B4.md)
