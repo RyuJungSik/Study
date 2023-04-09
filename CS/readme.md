@@ -22,6 +22,9 @@
 - [네트워크 기초](https://github.com/RyuJungSik/Study/blob/main/CS/(14)%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88.md)
 - [네트워크의 분류(LAN,MAN,WAN)](https://github.com/RyuJungSik/Study/blob/main/CS/(15)%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EB%B6%84%EB%A5%98(LAN%2CMAN%2CWAN).md)
 - [TCP/IP 4계층](https://github.com/RyuJungSik/Study/blob/main/CS/(16)TCP%2CIP%204%EA%B3%84%EC%B8%B5.md)
+- [TCP 연결,해제 과정](https://github.com/RyuJungSik/Study/blob/main/CS/(17)TCP%20%EC%97%B0%EA%B2%B0%2C%ED%95%B4%EC%A0%9C%20%EA%B3%BC%EC%A0%95.md)
+- [라우팅](https://github.com/RyuJungSik/Study/blob/main/CS/(18)%EB%9D%BC%EC%9A%B0%ED%8C%85.md)
+- [IP주소, MAC주소, ARP, RARP](https://github.com/RyuJungSik/Study/blob/main/CS/(19)IP%EC%A3%BC%EC%86%8C%2C%20MAC%EC%A3%BC%EC%86%8C%2C%20ARP%2C%20RARP.md)
 
 
 ## Reference
