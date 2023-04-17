@@ -32,6 +32,11 @@
 - [HTTPS와 TLS 암호화
 ](https://github.com/RyuJungSik/Study/blob/main/CS/(23)HTTPS%EC%99%80%20TLS%20%EC%95%94%ED%98%B8%ED%99%94.md)
 - [브라우저 렌더링과정](https://github.com/RyuJungSik/Study/blob/main/CS/(24)%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC%EC%A0%95.md)
+- [웹브라우저의 캐시와 HTTP 헤더](https://github.com/RyuJungSik/Study/blob/main/CS/(25)%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EC%BA%90%EC%8B%9C%EC%99%80%20HTTP%20%ED%97%A4%EB%8D%94.md)
+- [로그인 구현 (세션 기반, 토큰기반)](https://github.com/RyuJungSik/Study/blob/main/CS/(26)%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84%20(%EC%84%B8%EC%85%98%20%EA%B8%B0%EB%B0%98%2C%20%ED%86%A0%ED%81%B0%EA%B8%B0%EB%B0%98).md)
+- [직렬화와 역직렬화](https://github.com/RyuJungSik/Study/blob/main/CS/(27)%EC%A7%81%EB%A0%AC%ED%99%94%EC%99%80%20%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94.md)
+- [HTTP 상태코드와 메서드](https://github.com/RyuJungSik/Study/blob/main/CS/(28)HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+
 
 
 
