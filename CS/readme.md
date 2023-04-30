@@ -2,6 +2,7 @@
 
 
 ### 개발자 필수지식
+- [기술 면접 대비](https://github.com/4z7l/tech_interview.zip)
 - [데이터포맷 JSON](https://github.com/RyuJungSik/Study/blob/main/CS/(01)%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%EB%A7%B7%20JSON.md)
 - [데이터포맷 XML](https://github.com/RyuJungSik/Study/blob/main/CS/(02)%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%8F%AC%EB%A7%B7%20XML.md)
 - [API](https://github.com/RyuJungSik/Study/blob/main/CS/(03)API.md)
