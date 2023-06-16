@@ -24,6 +24,9 @@
 - [Java7](https://github.com/RyuJungSik/Study/blob/main/Java/(21)Java7.md)
 - [Java8](https://github.com/RyuJungSik/Study/blob/main/Java/(22)Java8.md)
 
+### Spring 강좌
+- [더자바, java8 -백기선 강의](https://github.com/RyuJungSik/Java8to11)
+
 # [OOP](https://github.com/RyuJungSik/Study/tree/main/OOP)
 - [정리](https://github.com/RyuJungSik/Study/blob/main/OOP/(00)%EC%A0%95%EB%A6%AC.md)
 ### 객체지향의 사실과 오해 역할, 책임, 협력 관점에서 본 객체지향
@@ -49,6 +52,7 @@
 ### Spring 강좌
 - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://github.com/RyuJungSik/Spring-Introduction)
 - [스프링 핵심 원리 - 기본편](https://github.com/RyuJungSik/Spring-Basic)
+- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/RyuJungSik/Jpa-basic)
 
 # [CS](https://github.com/RyuJungSik/Study/tree/main/CS)
 ### 개발자 필수지식
