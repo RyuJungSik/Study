@@ -7,6 +7,7 @@
 ### Spring 강좌
 - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://github.com/RyuJungSik/Spring-Introduction)
 - [스프링 핵심 원리 - 기본편](https://github.com/RyuJungSik/Spring-Basic)
+- [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/RyuJungSik/Jpa-basic)
 
 ## Reference
 -토비의 스프링 3.1 - 해당 자료를 통해 재가공 했습니다.
