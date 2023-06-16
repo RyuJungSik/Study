@@ -24,7 +24,7 @@
 - [Java7](https://github.com/RyuJungSik/Study/blob/main/Java/(21)Java7.md)
 - [Java8](https://github.com/RyuJungSik/Study/blob/main/Java/(22)Java8.md)
 
-### Spring 강좌
+### Java 강좌
 - [더자바, java8 -백기선 강의](https://github.com/RyuJungSik/Java8to11)
 
 # [OOP](https://github.com/RyuJungSik/Study/tree/main/OOP)
